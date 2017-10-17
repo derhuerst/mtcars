@@ -1,0 +1,25 @@
+{
+	"name": "mtcars",
+	"description": "A testing dataset containing car measurements.",
+	"version": "0.1.0",
+	"main": "index.json",
+	"files": [
+		"index.json"
+	],
+	"keywords": [
+		"mtcars",
+		"cars",
+		"statistics",
+		"data science",
+		"dataset"
+	],
+	"author": "Jannis R <mail@jannisr.de>",
+	"homepage": "https://github.com/derhuerst/mtcars",
+	"repository": "derhuerst/mtcars",
+	"bugs": "https://github.com/derhuerst/mtcars/issues",
+	"engines": {
+		"node": ">=4"
+	},
+	"dependencies": {
+	}
+}
